@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.container {
+    border: 0.3rem solid black;
+    display: flex;
+}
+
+.box {
+    width: 10rem;
+    height: 10rem;
+}
+
+.box1{
+    background-color: aqua;
+}
+.box2{
+    background-color:coral;
+}
+.box3{
+    background-color: blue;
+}
+.box4{
+    background-color:brown;
+}
+.box5{
+    background-color:chocolate;
+}
+.box6{
+    background: linear-gradient(to right, aqua, green);
+    background-blend-mode: overlay;
+}
+.box7{
+    background-color: red;
+}

@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: #99B3C6;
+    margin:0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+ul{
+    background-color: #F0F5F6;
+    height: auto;
+    width: 30rem;
+}
+nav{
+    background-color: #2E323F;
+    height: 10rem;
+    width: auto;
+}
+footer{
+    background-color:  #2E323F;
+    height: 4rem;
+    width: auto;
+    text-align: center;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.8rem;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.img-Full-Eu{
+    height: 50rem;
+    width: 80rem;
+    text-align: center;
+}
+img.img-icono-Eu{
+    height: 15rem;
+    width: 15rem;
+}
+img.icono-gi{
+    height: 10rem;
+    width: 10rem; 
+}
